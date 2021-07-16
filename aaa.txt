@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aaaaaabbbdddddadsffdggdgfdg第六次提交主干操作
+=======
+aaaaaabbbdddddadsffdggdgfdg第六次提交主干操作
+
+>>>>>>> dev
